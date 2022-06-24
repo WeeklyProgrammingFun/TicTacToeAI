@@ -1,7 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-from prometheus_client import Summary
 import torch
 import torch.nn as nn
 from torch.utils.data import Dataset, DataLoader
